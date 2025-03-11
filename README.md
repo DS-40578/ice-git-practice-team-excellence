@@ -2,6 +2,6 @@
 GIT PRACTICE
 ============
 
-Teammate 1's Name: Andrew Fumarola
+Teammate 1's Name: andrew fumarola
 
 Teammate 2's Name: ______________
